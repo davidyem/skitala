@@ -27,7 +27,7 @@
             <form id="ajax_form2" method="post" action="">
                 <h4>ВВЕДІТЬ ПОВІДОМЛЕННЯ ДЛЯ ДЕШИФРУВАННЯ</h4><br/>
                 <input id="text2" type="text" name="messagetodecrypt"><br/>
-                <button id="decrypt" name="submitdecrypt">Дешифрувати</button>
+                <button id="decrypt" name="submitdecrypt">Розшифрувати</button>
             </form>
             <br/>
             <div id="resdecrypt"></div>
